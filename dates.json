@@ -1,0 +1,26 @@
+{
+    "GWO2016" : {
+        "conference" : "Great Wide Open 2016",
+        "start_date" : "16-03-2015",
+        "end_date"   : "16-03-2015",
+        "cfp_date"   : "11-12-2015",
+    },
+    "POSSCON2016" : {
+        "conference" : "POSSCON 2016",
+        "start_date" : "12-04-2015",
+        "end_date"   : "13-04-2015",
+        "cfp_date"   : "11-12-2015"
+    },
+    "OSCON2016" : {
+        "conference" : "OSCON 2016",
+        "start_date" : "16-05-2015",
+        "end_date"   : "19-05-2015",
+        "cfp_date"   : "24-11-2015"
+    },
+    "ATO2016" : {
+        "conference" : "All Things Open 2016",
+        "start_date" : "26-10-2016",
+        "end_date"   : "28-10-2016",
+        "cfp_date"   : ""
+    }
+}
